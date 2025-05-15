@@ -7,11 +7,6 @@
 - The numbers with " : " behind them and NaN in corresponding rating are movie ids according to data set
 - The rest are customer id
 
-## Objective
-
-![image](https://github.com/user-attachments/assets/2f1c6f3e-52cb-4489-a4f8-8aa65cbfae24)
-
-
 **Importing Surprise Library**
 
 The Surprise library is a Python library used for building and analyzing recommender systems. It is particularly useful for collaborative filtering-based recommendation algorithms. Surprise stands for "Simple Python Recommendation System Engine" and is designed to work efficiently with large datasets.
